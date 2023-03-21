@@ -1,0 +1,46 @@
+/* BACKGROUND */
+
+body {
+    background-color: white;
+}
+  
+  /* PAGINA */
+  
+  /* TITULO */
+  .title {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkgray;
+    font-size: 200%;
+  }
+  
+  span {
+    color: aquamarine;
+  }
+  
+  /* Btn */
+
+  .Btns {
+    text-align: left;
+    background-color: gray;
+  }
+
+  a {
+    color: black;
+  }
+
+  button {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-width: 0;
+    width: 125px;
+    height: 75px;
+    background-color: gray;
+    
+  }
+
+  button:hover {
+    transition-duration: 500ms;
+    background-color: aquamarine;
+    cursor: pointer;
+} 
+
